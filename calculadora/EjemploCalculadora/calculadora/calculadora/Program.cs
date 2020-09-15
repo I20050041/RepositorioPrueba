@@ -25,7 +25,7 @@ namespace calculadora
             b = Int32.Parse(Console.ReadLine());
             //sumar intervalo
             c = a + b;
-            Console.Write("la suma es" + c);
+            Console.Write("el resultado final de la suma es " + c);
            
 
         }

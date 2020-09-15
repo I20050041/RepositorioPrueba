@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jared\\source\\repos\\calculadora\\EjemploCalculadora\\calculadora\\calculadora\\calculadora.csproj",
+      "projectUniqueName": "C:\\Users\\jared\\Source\\Repos\\I20050041\\RepositorioPrueba\\calculadora\\EjemploCalculadora\\calculadora\\calculadora\\calculadora.csproj",
       "projectName": "calculadora",
-      "projectPath": "C:\\Users\\jared\\source\\repos\\calculadora\\EjemploCalculadora\\calculadora\\calculadora\\calculadora.csproj",
+      "projectPath": "C:\\Users\\jared\\Source\\Repos\\I20050041\\RepositorioPrueba\\calculadora\\EjemploCalculadora\\calculadora\\calculadora\\calculadora.csproj",
       "packagesPath": "C:\\Users\\jared\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jared\\source\\repos\\calculadora\\EjemploCalculadora\\calculadora\\calculadora\\obj\\",
+      "outputPath": "C:\\Users\\jared\\Source\\Repos\\I20050041\\RepositorioPrueba\\calculadora\\EjemploCalculadora\\calculadora\\calculadora\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jared\\AppData\\Roaming\\NuGet\\NuGet.Config",
